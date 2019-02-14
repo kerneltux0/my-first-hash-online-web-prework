@@ -1,5 +1,5 @@
 def my_hash
-  couch = {}
+  couch = {"color" => "blue", "length" => "six feet"}
 end
 
 
